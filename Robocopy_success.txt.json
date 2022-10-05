@@ -1,0 +1,32 @@
+{
+ "log_file_name": "",
+ "dir": {
+  "Source": "C:\\RegularExpressionsWithDotNet\\robocopytest\\source\\தமிழ்\\हिन्दी\\English",
+  "Dest": "C:\\RegularExpressionsWithDotNet\\robocopytest\\destn\\"
+ },
+ "metrics": [
+  [
+   "type",
+   "total",
+   "copied",
+   "skipped",
+   "mismatch",
+   "failed",
+   "extras"
+  ],
+  [
+   "Dirs",
+   "7",
+   "6",
+   "1",
+   "0",
+   "0",
+   "0"
+  ],
+  [],
+  []
+ ],
+ "error": false,
+ "error_message": "",
+ "file_name": "Robocopy_success.txt"
+}
